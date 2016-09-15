@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true"
+    android:shareInterpolator="false">
+    <item android:drawable="@drawable/batary32" android:duration="1"/>
+    <item android:drawable="@drawable/batary33" android:duration="1"/>
+    <item android:drawable="@drawable/batary34" android:duration="1"/>
+    <item android:drawable="@drawable/batary35" android:duration="1"/>
+    <item android:drawable="@drawable/batary36" android:duration="1"/>
+    <item android:drawable="@drawable/batary37" android:duration="1"/>
+    <item android:drawable="@drawable/batary38" android:duration="1"/>
+    <item android:drawable="@drawable/batary39" android:duration="1"/>
+    <item android:drawable="@drawable/batary40" android:duration="1"/>
+    <item android:drawable="@drawable/batary41" android:duration="1"/>
+    <item android:drawable="@drawable/batary42" android:duration="1"/>
+    <item android:drawable="@drawable/batary43" android:duration="1"/>
+    <item android:drawable="@drawable/batary44" android:duration="1"/>
+    <item android:drawable="@drawable/batary45" android:duration="1"/>
+    <item android:drawable="@drawable/batary46" android:duration="1"/>
+    <item android:drawable="@drawable/batary47" android:duration="1"/>
+
+</animation-list>

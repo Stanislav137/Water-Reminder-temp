@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">WaterReminder</string>
+    <string name="genset">GENERAL SETTINGS</string>
+    <string name="sex">Sex</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="weight">Weight</string>
+    <string name="kg">70 kg</string>
+    <string name="gender">Gender:</string>
+    <string name="chosen">You have chosen: </string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="kgWeight">kg,ml</string>
+    <string name="lbWeight">lb,oz</string>
+    <string name="weightin">Weight in</string>
+    <string name="waterdrink">You need to drink water</string>
+    <string name="watertime">Water time!</string>
+    <string name="waterbody">Don</string>
+    <string name="waterbody2">t forget to drink water!</string>
+    <string name="vibrate">On/Off Vibrate</string>
+    <string name="starttxt">Start</string>
+    <string name="timestart">08:00</string>
+    <string name="finishtxt">Finish</string>
+    <string name="finishtime">21:00</string>
+    <string name="notification">NOTIFICATION</string>
+    <string name="share">/</string>
+    <string name="memoryBox">memoryBox</string>
+    <string name="memoryWeight">memoryWeight</string>
+    <string name="memorySex">memorySex</string>
+    <string name="memoryX">memoryX</string>
+    <string name="memoryI">memoryI</string>
+    <string name="textbatary"></string> // разобраться
+    <string name="name_finish">Congratulations, your body is safe!</string>
+    <string name="cont">Continue</string>
+
+    <string name="ml500">500 миллилитров</string>
+    <string name="ml300">300 миллилитров</string>
+    <string name="ml200">200 миллилитров</string>
+
+    <string name="oz17">17 oz</string>
+    <string name="oz10">10 oz</string>
+    <string name="oz7">7 oz</string>
+
+    <string name="main_txt">0/2000</string>
+
+</resources>
